@@ -24,5 +24,7 @@ PYTHONPATH- %SPARK_HOME%\python;%SPARK_HOME%\python\lib\py4j-0.10.9-src;%PYTHONP
 Required Paths:
 
 %SPARK_HOME%\bin
+
 %HADOOP_HOME%\bin
+
 %JAVA_HOME%\bin
