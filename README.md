@@ -8,6 +8,8 @@
 
 3) Download Spark: https://spark.apache.org/downloads.html
 
+4) Download winutils from provided link here
+
 
 
 
